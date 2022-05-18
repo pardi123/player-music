@@ -1,5 +1,5 @@
 <template>
-  <v-app app >
+  <v-app app  id="background-img">
    <!--  <v-system-bar lights-out> </v-system-bar> --> 
       <router-view />
     <footer-comp />
@@ -32,6 +32,9 @@ export default {
 };
 </script>
 <style >
+#background-img{
+  background-color: black !important;
+}
 a{
   text-decoration: none;
 }

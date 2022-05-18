@@ -26,7 +26,7 @@ import BackgroundImg from '../components/home/BackgroundImg.vue'
 <style>
 .home{
   /* background-color:#32647b; */
-  background:radial-gradient( #d1dce1,#32647b );
+    background-image: url('../assets/bg.jpg')
  
 }
 

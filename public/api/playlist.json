@@ -1,106 +1,33 @@
-[
-  {
-    "title": "A Little Bit of Rhythm",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/A_Little_Bit_of_Rhythm.jpg"
-  },
-  {
-    "title": "All that Remains",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/All_that_Remains.jpg"
-  },
-  {
-    "title": "Charms",
-    "artist": "Fiftysounds",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/Charms.jpg"
-  },
-  {
-    "title": "East Wind",
-    "artist": "FiftySounds",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/East_Wind.jpg"
-  },
-  {
-    "title": "Only the Braves",
-    "artist": "FiftySounds",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/Only_the_Braves.jpg"
-  },
-  {
-    "title": "Returning Home",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/Returning_Home.jpg"
-  },
-  {
-    "title": "Spiritual",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/Spiritual.jpg"
-  },
-  {
-    "title": "The First Man",
-    "artist": "FiftySounds",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/The_First_Man.jpg"
-  },
-  {
-    "title": "The Music Box",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/The_Music_Box.jpg"
-  },
-  {
-    "title": "The Revelation",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/The_Revelation.jpg"
-  },
-  {
-    "title": "The Unexplored",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/The_Unexplored.jpg"
-  },
-  {
-    "title": "The Wild Side",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/The_Wild_Side.jpg"
-  },
-  {
-    "title": "What Matters Most",
-    "artist": "Unknown",
-    "howl": "null",
-    "display": "true",
-    "selected":"false",
-    "img":"../../img/What_Matters_Most.jpeg"
-  }
+[{
+        "title": "Know Me Too Well",
+        "artist": "Unknown",
+        "howl": "null",
+        "display": "true",
+        "selected": "false",
+        "img": "../../img/know_me_too_well.jpg"
+    },
+    {
+        "title": "Berkibarlah Bendera Negeriku",
+        "artist": "Unknown",
+        "howl": "null",
+        "display": "true",
+        "selected": "false",
+        "img": "../../img/bendera.jpg"
+    },
+    {
+        "title": "Surat Cinta Untuk Starla",
+        "artist": "Virgound",
+        "howl": "null",
+        "display": "true",
+        "selected": "false",
+        "img": "../../img/virgound.jpg"
+    },
+    {
+        "title": "skinnyfabs happy",
+        "artist": "Unknown",
+        "howl": "null",
+        "display": "true",
+        "selected": "false",
+        "img": "../../img/What_Matters_Most.jpeg"
+    }
 ]

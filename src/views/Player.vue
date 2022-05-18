@@ -1,5 +1,5 @@
 <template>
-  <div class="player ">
+  <div class="player " id="background-img">
     <div class="container my-10" >
       <v-row>
         <v-col cols="12" md="6">
@@ -126,7 +126,7 @@ export default {
 
       changeImg: {
         backgroundImage:
-          'url(" http://localhost:8080/img/A_Little_Bit_of_Rhythm.jpg")',
+          'url(" http://localhost:8080/img/know_me_too_well.jpg")',
         backgroundSize: "cover",
         backgroundPosition: "center",
       },
@@ -430,7 +430,7 @@ export default {
 <style>
 .player{
   /* background-color:#32647b; */
-  background: linear-gradient(to bottom, #d1dce1,#32647b );
+    background-image: url('../assets/bg.jpg')
  
 }
 .component-fade-enter-active,
