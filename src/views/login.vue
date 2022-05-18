@@ -43,7 +43,7 @@ export default {
             this.$router.push('/signup')
         },
         toPlayer(){
-            this.$router.push('/')
+            this.$router.push('/home')
         }
     }
 }
